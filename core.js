@@ -1,3 +1,5 @@
+function combate
+
 var game = new Phaser.Game(600, 800, Phaser.AUTO, '', {preload: preload, create: create, update: update})
 var host = {
   BP: 10,
